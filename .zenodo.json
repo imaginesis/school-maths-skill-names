@@ -1,0 +1,55 @@
+{
+  "title": "School maths skill names in 7 languages, in each country's curriculum terminology",
+  "upload_type": "dataset",
+  "description": "Names of 473 school mathematics skills (domains, topics, skills) in English, Polish, German, French, Spanish, Italian and Dutch, in the curriculum and textbook terminology of each country rather than a literal translation. English and Polish names are human-written; the other five are machine translations reviewed against the national curriculum documents. Skill identifiers match the Imaginesis curriculum crosswalk and prerequisite graph. Prepared by Imaginesis (https://imaginesis.com), a maths worksheet generator.",
+  "creators": [
+    {
+      "name": "Imaginesis"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "mathematics education",
+    "curriculum",
+    "terminology",
+    "multilingual",
+    "skills taxonomy",
+    "translation",
+    "K-12",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://imaginesis.com",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.23217841",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23451054",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23451451",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23451760",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://imaginesis.com/en/curricula",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ]
+}
