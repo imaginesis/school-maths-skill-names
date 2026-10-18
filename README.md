@@ -7,7 +7,9 @@ the topic, not as a word-for-word translation: *Schriftliche Addition* in German
 generator that publishes worksheets in these seven languages.
 
 Snapshot: 2026-10-18. License: Creative Commons Attribution 4.0 (CC BY 4.0) — cite as
-"Imaginesis school maths skill names in 7 languages, 2026".
+"Imaginesis school maths skill names in 7 languages, 2026, https://doi.org/10.5281/zenodo.23452239".
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23452239.svg)](https://doi.org/10.5281/zenodo.23452239)
 
 ## Files
 
